@@ -3,10 +3,10 @@ import React from "react";
 function Conactet() {
   return (
     <>
-      <div className=" bg-gray-100 pb-20">
+      <div className=" bg-gray-100 pb-20 pt-10 mt-10">
         <div className="container px-4">
-          <h2 className="">Biz bilan bog'lanish</h2>
-          <p className="">
+          <h2 className="font-bold text-4xl text-center mb-5">Biz bilan bog'lanish</h2>
+          <p className="text-center mb-5 text-gray-700">
             Savollaringiz bormi?. Biz sizga yordam berishdan xursandmiz
           </p>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
