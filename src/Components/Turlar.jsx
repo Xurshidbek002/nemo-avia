@@ -16,7 +16,7 @@ function Turlar() {
   }
   return (
     <>
-    <div onClick={btntell} className=" bg-orange-400 p-5 fixed rounded-full bottom-10 shadow-2xl right-10">
+    <div onClick={btntell} className=" z-100 bg-orange-400 p-5 fixed rounded-full bottom-10 shadow-2xl right-10">
     <BsTelephoneFill className="text-white text-2xl" />
     </div>
     <div className="pb-50 mt-5">

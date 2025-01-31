@@ -8,6 +8,9 @@ import Motion from "./Components/Motion";
 import Turlar from "./Components/Turlar";
 import Hotel from "./Components/Hotel";
 import Chiptalar from "./Components/Chiptalar";
+import Hamkor from "./Components/Hamkor";
+import Conactet from "./Components/Conactet";
+import Footer from "./Components/Footer";
 
 function App() {
   useEffect(() => {
@@ -23,11 +26,13 @@ function App() {
       <Header />
       <Avia />
       <Information />
-      <Motion />
       <Turlar/>
       <Hotel/>
       <Chiptalar/>
-      
+      <Motion />
+      <Hamkor/>
+      <Conactet/>
+      <Footer/>
     </div>
   );
 }

@@ -6,7 +6,7 @@ function Chiptalar() {
       <div className="mt-10 pb-10">
         <div className="container px-4">
           <h2 className="font-bold text-4xl mb-5 ">Aviachiptalar</h2>
-          <form action="" className=" shadow-[0_0_10px_#000000] p-8 rounded-2xl">
+          <form action="" className=" shadow-[2px_3px_9px_#00000050] p-8 rounded-2xl">
             <div className="flex gap-6 max-[596px]:justify-center mt-1 mb-4">
               <a href="#" className="px-5 py-2 text-white rounded-[7px] bg-amber-600">
                 Borish
