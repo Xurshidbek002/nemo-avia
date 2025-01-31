@@ -16,7 +16,7 @@ function Information() {
           </p>
           <ul className="flex justify-around max-[800px]:flex-col gap-7 flex-wrap items-center mt-7 mb-8">
             <li
-              data-aos="fade-up-left"
+              data-aos="fade-up"
               className="bg-white shadow-[0_2px_5px_#00000050] rounded-2xl w-[47%] max-[500px]:w-[90%] p-4"
             >
               <h3 className="text-3xl font-bold max-[500px]:text-xl mb-3">
@@ -28,7 +28,7 @@ function Information() {
               </p>
             </li>
             <li
-              data-aos="fade-up-right"
+              data-aos="fade-up"
               className="bg-white shadow-[0_2px_5px_#00000050] rounded-2xl w-[47%] max-[500px]:w-[90%] p-4"
             >
               <h3 className="text-3xl font-bold max-[500px]:text-xl mb-3">
@@ -42,7 +42,7 @@ function Information() {
           </ul>
           <div className="flex justify-between max-[800px]:flex-col  max-[800px]:items-center max-[800px]:text-center">
             <div
-              data-aos="zoom-in-right"
+              data-aos="flip-left"
               className="w-[48%] max-[800px]:w-[100%]"
             >
               <p className=" leading-9 max-[1097px]:leading-7 text-gray-600 mb-4">
@@ -67,7 +67,7 @@ function Information() {
               </p>
             </div>
             <div
-              data-aos="zoom-in-left"
+              data-aos="flip-right"
               className="w-[48%] max-[800px]:w-[100%] max-[800px]:mt-5 flex flex-col gap-2"
             >
               <img

@@ -7,6 +7,7 @@ import Aos from "aos";
 import Motion from "./Components/Motion";
 import Turlar from "./Components/Turlar";
 import Hotel from "./Components/Hotel";
+import Chiptalar from "./Components/Chiptalar";
 
 function App() {
   useEffect(() => {
@@ -25,6 +26,7 @@ function App() {
       <Motion />
       <Turlar/>
       <Hotel/>
+      <Chiptalar/>
       
     </div>
   );

@@ -28,7 +28,7 @@ function Header() {
     <>
       <header
         className={`fixed w-[100%] text-white z-50 py-4 transition-all duration-300 ${
-          scrolled ? "bg-gray-500" : "bg-amber-600"
+          scrolled ? "bg-gray-500 shadow-2xl"  : "bg-amber-600"
         }`}
       >
         <div className="container px-4 flex justify-between items-center">

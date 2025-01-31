@@ -11,7 +11,7 @@ function Hotel() {
           <h1 className="text-3xl font-bold text-center">Mehmonhonalar</h1>
 
           <ul className="flex  justify-center mt-5 flex-wrap gap-5">
-            <li className="w-[400px] max-[450px]:w-[290px] h-[450px] max-[820px]:w-[700px] max-[730px]:w-[600px] max-[630px]:w-[500px] pb-4 hover:shadow-2xl rounded-tr-2xl rounded-xl shadow-xl rounded-tl-2xl">
+            <li className="w-[400px] hover:scale-102 max-[450px]:w-[290px] h-[450px] max-[820px]:w-[700px] max-[730px]:w-[600px] max-[630px]:w-[500px] pb-4 hover:shadow-2xl rounded-tr-2xl rounded-xl shadow-xl rounded-tl-2xl">
               <img
                 src={hotel1}
                 alt=""
@@ -33,7 +33,7 @@ function Hotel() {
                 </a>
               </div>
             </li>
-            <li className="w-[400px] max-[450px]:w-[290px] h-[450px] max-[820px]:w-[700px] max-[730px]:w-[600px] max-[630px]:w-[500px] pb-4 hover:shadow-2xl rounded-tr-2xl rounded-xl shadow-xl rounded-tl-2xl">
+            <li className="w-[400px] hover:scale-102 max-[450px]:w-[290px] h-[450px] max-[820px]:w-[700px] max-[730px]:w-[600px] max-[630px]:w-[500px] pb-4 hover:shadow-2xl rounded-tr-2xl rounded-xl shadow-xl rounded-tl-2xl">
               <img
                 src={hotel2}
                 alt=""
@@ -55,7 +55,7 @@ function Hotel() {
                 </a>
               </div>
             </li>
-            <li className="w-[400px] hover:scale-103 max-[450px]:w-[290px] h-[450px] max-[820px]:w-[700px] max-[730px]:w-[600px] max-[630px]:w-[500px] pb-4 hover:shadow-2xl rounded-tr-2xl rounded-xl shadow-xl rounded-tl-2xl">
+            <li className="w-[400px] hover:scale-102 max-[450px]:w-[290px] h-[450px] max-[820px]:w-[700px] max-[730px]:w-[600px] max-[630px]:w-[500px] pb-4 hover:shadow-2xl rounded-tr-2xl rounded-xl shadow-xl rounded-tl-2xl">
               <img
                 src={hotel3}
                 alt=""
