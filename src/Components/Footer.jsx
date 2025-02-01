@@ -22,9 +22,9 @@ function Footer() {
               <li className=" space-y-4">
                 <h2 className="text-xl font-bold text-white ">Ijtimoiy Tarmoqlar</h2>
                 <div className="flex gap-3">
-                <FaTelegram className="text-gray-400 text-[20px]"/>
-                <FaInstagram className="text-gray-400 text-[20px]"/>
-                <SiGmail className="text-gray-400 text-[20px]"/>
+                <FaTelegram className="text-gray-400 cursor-pointer text-[20px]"/>
+                <FaInstagram className="text-gray-400 cursor-pointer text-[20px]"/>
+                <SiGmail className="text-gray-400 cursor-pointer text-[20px]"/>
                 </div>
               </li>
               <li className=" space-y-4">
